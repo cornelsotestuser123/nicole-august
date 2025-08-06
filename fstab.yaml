@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/cornelsotestuser123/nicole-august/
+    type: markup
+
+folders:
+  /products/: /products/default
